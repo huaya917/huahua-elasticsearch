@@ -18,5 +18,6 @@ public class App
         System.out.println( "Hello World!hot-fix333" );
          System.out.println( "Hello World!hot-fix444" );
         System.out.println( "Hello World!hot-fix666" );
+         System.out.println( "Hello World!hot-fix777" );
     }
 }
