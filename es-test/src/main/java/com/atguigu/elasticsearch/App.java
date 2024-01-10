@@ -13,12 +13,6 @@ public class App
         System.out.println( "Hello World!hot-fix" );
         System.out.println( "Hello World!hot-fix" );
         System.out.println( "Hello World!hot-fix" );
-        System.out.println( "Hello World!hot-fix111" );
- System.out.println( "Hello World!" ); System.out.println( "Hello World!" ); System.out.println( "Hello World!" ); System.out.println( "Hello World!" ); System.out.println( "Hello World!" ); System.out.println( "Hello World!" ); System.out.println( "Hello World!" );
-        System.out.println( "Hello World!hot-fix222" );        System.out.println( "Hello World!hot-fix222" );        System.out.println( "Hello World!hot-fix222" );
-        System.out.println( "Hello World!hot-fix222" );        System.out.println( "Hello World!hot-fix222" );        System.out.println( "Hello World!hot-fix222" );
-
-        System.out.println( "Hello World!hot-fix222" );        System.out.println( "Hello World!hot-fix222" );        System.out.println( "Hello World!hot-fix222" );
 
     }
 }
